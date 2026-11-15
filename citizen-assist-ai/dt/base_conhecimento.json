@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentação pessoal",
+    "titulo": "Obter a Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "ctps digital",
+      "carteira digital",
+      "trabalho digital"
+    ],
+    "resposta": "A Carteira de Trabalho Digital é acessada pelo aplicativo ou pela internet. Para obtê-la, a pessoa precisa estar inscrita no CPF e ter uma conta autenticada gov.br. O serviço é gratuito.",
+    "documentos": [
+      "Número do CPF",
+      "Conta gov.br autenticada"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou serviço no portal gov.br.",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentação pessoal",
+    "titulo": "Criar uma conta gov.br",
+    "palavras_chave": [
+      "conta gov br",
+      "cadastro gov br",
+      "senha gov br",
+      "acesso governo"
+    ],
+    "resposta": "A conta gov.br permite acessar diversos serviços digitais do Governo Federal usando um único login. O cadastro é feito no portal ou aplicativo gov.br. Alguns serviços exigem nível de segurança prata ou ouro.",
+    "documentos": [
+      "Dados pessoais solicitados durante o cadastro",
+      "Meio de validação indicado pelo próprio gov.br, quando necessário"
+    ],
+    "onde": "Aplicativo gov.br ou https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br.",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentação pessoal",
+    "titulo": "Consultar ou emitir comprovante de inscrição no CPF",
+    "palavras_chave": [
+      "consultar cpf",
+      "comprovante cpf",
+      "inscricao cpf",
+      "receita federal"
+    ],
+    "resposta": "A Receita Federal disponibiliza serviços digitais para consultar a situação cadastral e obter o comprovante de inscrição no CPF. Utilize somente os canais oficiais da Receita Federal.",
+    "documentos": [
+      "Dados solicitados pelo serviço oficial; não informe seus dados neste assistente"
+    ],
+    "onde": "Portal de Serviços da Receita Federal, na área CPF.",
+    "fonte": "https://servicos.receitafederal.gov.br/",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentação pessoal",
+    "titulo": "Solicitar a Carteira de Identidade Nacional (CIN)",
+    "palavras_chave": [
+      "carteira identidade",
+      "nova identidade",
+      "identidade nacional",
+      "cin"
+    ],
+    "resposta": "A emissão da Carteira de Identidade Nacional é realizada pelos órgãos de identificação dos estados e do Distrito Federal. Os procedimentos, agendamento e documentos devem ser conferidos no portal oficial do estado onde a pessoa mora.",
+    "documentos": [
+      "Consulte a lista atualizada do órgão de identificação do seu estado antes de comparecer"
+    ],
+    "onde": "Órgão de identificação civil do estado ou do Distrito Federal.",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-carteira-de-identidade-nacional",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Entender o contrato de jovem aprendiz",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendizagem profissional",
+      "contrato aprendiz",
+      "vaga aprendiz"
+    ],
+    "resposta": "A aprendizagem profissional combina formação teórica e prática. Em regra, é destinada a jovens de 14 a 24 anos incompletos; para pessoa com deficiência não há limite máximo de idade. Quem ainda não concluiu o ensino médio deve estar matriculado e frequentando a escola. Existem regras específicas de jornada e direitos.",
+    "documentos": [
+      "A documentação para candidatura varia conforme a empresa e a entidade formadora",
+      "Quem não concluiu o ensino médio deve comprovar matrícula e frequência escolar"
+    ],
+    "onde": "Empresas contratantes e entidades formadoras habilitadas, como instituições do Sistema S.",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/noticias-e-conteudo/2026/julho/aprendizagem-profissional-regras-direitos-e-funcionamento-do-contrato-de-aprendizagem",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Solicitar o seguro-desemprego",
+    "palavras_chave": [
+      "seguro desemprego",
+      "fui demitido",
+      "demissao sem justa causa",
+      "beneficio desemprego"
+    ],
+    "resposta": "O seguro-desemprego oferece assistência financeira temporária ao trabalhador dispensado involuntariamente, desde que cumpra os requisitos legais. O pedido pode ser feito pelo portal gov.br ou pelo aplicativo Carteira de Trabalho Digital. A elegibilidade depende do histórico de trabalho e de outras condições.",
+    "documentos": [
+      "Documento do Requerimento do Seguro-Desemprego fornecido pelo empregador",
+      "CPF"
+    ],
+    "onde": "Portal gov.br, aplicativo Carteira de Trabalho Digital ou atendimento do Ministério do Trabalho pelos canais oficiais.",
+    "fonte": "https://www.gov.br/pt-br/servicos/solicitar-o-seguro-desemprego",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 7,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Consultar os depósitos do FGTS",
+    "palavras_chave": [
+      "fgts",
+      "saldo fgts",
+      "extrato fgts",
+      "depositos fgts"
+    ],
+    "resposta": "O trabalhador pode acompanhar o saldo e os lançamentos de sua conta do FGTS pelo aplicativo oficial FGTS. Também é possível consultar informações e serviços nos canais da CAIXA.",
+    "documentos": [
+      "Acesso ao aplicativo FGTS e autenticação solicitada pelo serviço oficial"
+    ],
+    "onde": "Aplicativo FGTS ou canais oficiais da CAIXA.",
+    "fonte": "https://www.caixa.gov.br/beneficios-trabalhador/fgts/extrato-FGTS/Paginas/default.aspx",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 8,
+    "categoria": "Trabalho e emprego",
+    "titulo": "Conhecer a idade mínima para trabalhar",
+    "palavras_chave": [
+      "idade trabalhar",
+      "trabalho menor idade",
+      "trabalho adolescente",
+      "idade aprendiz"
+    ],
+    "resposta": "No Brasil, a idade mínima geral para trabalhar é 16 anos. A partir dos 14 anos é permitido trabalhar como aprendiz, respeitando as regras específicas de proteção ao adolescente e de aprendizagem profissional.",
+    "documentos": [
+      "Consulte os requisitos da vaga e do programa de aprendizagem; este assistente não faz análise individual"
+    ],
+    "onde": "Orientações do Ministério do Trabalho e Emprego.",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/areas-de-atuacao/Combate-trabalho-infantil/erradicacao-do-trabalho-infantil",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 9,
+    "categoria": "Serviços digitais",
+    "titulo": "Acessar serviços públicos pela conta gov.br",
+    "palavras_chave": [
+      "servicos digitais",
+      "portal gov br",
+      "acessar servicos",
+      "login governo"
+    ],
+    "resposta": "A conta gov.br funciona como acesso único a vários serviços digitais do governo, incluindo serviços do INSS, Carteira de Trabalho Digital e seguro-desemprego. O nível de segurança exigido pode variar conforme o serviço.",
+    "documentos": [
+      "Conta gov.br; alguns serviços podem exigir validação adicional"
+    ],
+    "onde": "Portal gov.br ou aplicativo gov.br.",
+    "fonte": "https://www.gov.br/pt-br/servicos/criar-sua-conta-gov.br",
+    "verificado_em": "2026-11-14"
+  },
+  {
+    "id": 10,
+    "categoria": "Serviços digitais",
+    "titulo": "Baixar e utilizar o aplicativo FGTS",
+    "palavras_chave": [
+      "fgts",
+      "aplicativo fgts",
+      "app fgts",
+      "baixar fgts"
+    ],
+    "resposta": "O aplicativo FGTS é um canal oficial para acompanhar extratos, movimentações e serviços relacionados à conta vinculada. Baixe o aplicativo somente nas lojas oficiais e confira se o desenvolvedor é a CAIXA.",
+    "documentos": [
+      "Celular compatível e dados necessários para autenticação no aplicativo oficial"
+    ],
+    "onde": "Google Play ou App Store; informações também no site oficial do FGTS.",
+    "fonte": "https://www.fgts.gov.br/Paginas/trabalhador/app-fgts.aspx",
+    "verificado_em": "2026-11-14"
+  }
+]
